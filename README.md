@@ -192,7 +192,7 @@ TravelLog model (backlog)
 
 ### Trello
 
-[Link to your trello board](https://trello.com/b/KYujgK2d/travel-guru) or picture of your physical board
+[Link to your trello board](https://trello.com/b/KYujgK2d/travel-guru)
 
 ### Git
 
@@ -202,7 +202,7 @@ The url to your repository and to your deployed project
 
 [Server repository Link](https://github.com/Lucy-Quinn/Server-Travel-Guru)
 
-[Deployed App Link](https://travel-guru.herokuapp.com/)
+[Deployed App Link](https://travel-guru-iqpy.onrender.com)
 
 ### Slides
 
